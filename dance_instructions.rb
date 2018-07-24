@@ -21,6 +21,7 @@ def bob_the_reins
   puts "Do"
   puts "Hold"
   puts "Cross"
+  puts "Lift"
 end
 
 def lasso
