@@ -19,6 +19,7 @@ end
 
 def bob_the_reins
   puts "Do"
+  puts "Hold"
 end
 
 def lasso
