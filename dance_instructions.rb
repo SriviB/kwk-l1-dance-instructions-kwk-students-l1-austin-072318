@@ -18,9 +18,7 @@ def skip_step(side)
 end
 
 def bob_the_reins
-  puts "Step 1: Holding your arms out in front of you, straight and at chest level"
-  puts "Step 2: Cross your right wrist over your left and hold them together"
-  puts "Step 3: Lift your arms up and down in a loose bouncing movement, in time with the beat of the song. This movement is repeated eight times."
+  puts "Do
 end
 
 def lasso
