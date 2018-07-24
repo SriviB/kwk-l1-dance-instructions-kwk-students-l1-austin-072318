@@ -27,4 +27,5 @@ end
 def lasso
   puts "Do"
   puts "Start"
+  puts "Lift"
 end
