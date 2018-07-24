@@ -20,6 +20,7 @@ end
 def bob_the_reins
   puts "Do"
   puts "Hold"
+  puts "Cross"
 end
 
 def lasso
