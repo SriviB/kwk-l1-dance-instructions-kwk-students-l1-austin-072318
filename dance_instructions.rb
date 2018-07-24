@@ -18,7 +18,7 @@ def skip_step(side)
 end
 
 def bob_the_reins
-  puts "Do
+  puts "Do"
 end
 
 def lasso
