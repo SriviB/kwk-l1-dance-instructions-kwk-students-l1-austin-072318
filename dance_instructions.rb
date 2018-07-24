@@ -30,3 +30,6 @@ def lasso
   puts "Lift"
   puts "Raise"
 end
+
+def bust_a_move
+  puts ""
